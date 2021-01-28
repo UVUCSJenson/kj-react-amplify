@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "kjimagestore": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
