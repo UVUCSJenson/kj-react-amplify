@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "kjreactamplify1bee2bf7": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
